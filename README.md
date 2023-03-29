@@ -1,5 +1,5 @@
 # nuxt
-
+关于nuxt学习小记
 ## Build Setup
 
 ```bash
